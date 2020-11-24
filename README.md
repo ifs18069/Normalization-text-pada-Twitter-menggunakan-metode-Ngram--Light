@@ -1,1 +1,1 @@
-# Normalization-text-pada-Twitter-menggunakkan-metode-Ngram--Light
+# Normalization-text-pada-Twitter-menggunakan-metode-Ngram--Light
